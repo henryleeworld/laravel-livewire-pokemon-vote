@@ -1,4 +1,4 @@
-# Laravel 12 Livewire 寶可夢投票
+# Laravel 13 Livewire 寶可夢投票
 
 點擊寶可夢圖鑑頁面上的投票按鈕，從中選擇你最喜歡的寶可夢吧！
 
@@ -34,5 +34,5 @@ $ npm run build
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/qJmVGBO.gif)
+![](https://i.imgur.com/SmyoTOf.gif)
 > 在投票結束後，點選「結果」了解寶可夢得票數

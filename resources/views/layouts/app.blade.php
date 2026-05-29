@@ -7,7 +7,7 @@
         @vite(['resources/css/app.css'])
     </head>
 
-    <body class="flex flex-col justify-between min-h-screen antialiased text-white border-t-2 border-purple-600 min-w-screen bg-gray-950">
+    <body class="flex flex-col justify-between min-h-screen antialiased text-white border-t-2 border-purple-600 bg-gray-950">
         <header class="px-8 py-4">
             <div class="flex items-baseline justify-between">
                 <div class="flex items-center">

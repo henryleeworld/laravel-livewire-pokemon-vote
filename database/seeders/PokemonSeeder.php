@@ -49,7 +49,7 @@ class PokemonSeeder extends Seeder
             Pokemon::firstOrCreate(
                 ['dex_id' => $pokemon['dex_id']],
                 [
-                    'name' => $pokemon['name'],
+                    'name' => __($pokemon['name']),
                     'sprite' => "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/{$pokemon['dex_id']}.png",
                 ]
             );
